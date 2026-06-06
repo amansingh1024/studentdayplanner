@@ -98,10 +98,10 @@ streamlit run app.py
 * Better organization
 * Improved focus
 * Increased productivity
-* Consistent study habits
 * Efficient time management
 
 ---
+
 
 ## 👨‍💻 Author
 
