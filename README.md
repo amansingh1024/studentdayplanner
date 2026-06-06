@@ -18,18 +18,6 @@ A simple and efficient productivity application designed to help students organi
 * 💻 Simple and user-friendly interface
 
 ---
----
-
-## 🚀 Features
-
-* ✅ Create and manage daily tasks
-* 📅 Organize study schedules
-* ⏰ Track important deadlines
-* 🎯 Improve productivity and focus
-* 📊 Monitor daily progress
-* 💻 Simple and user-friendly interface
-
----
 
 ## 🛠️ Tech Stack
 
