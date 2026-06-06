@@ -103,17 +103,6 @@ streamlit run app.py
 
 ---
 
-## 🔮 Future Improvements
-
-* User authentication
-* Cloud synchronization
-* Mobile-friendly version
-* Study analytics dashboard
-* Calendar integration
-* Goal tracking system
-
----
-
 ## 👨‍💻 Author
 
 ### Aman Singh
